@@ -1,4 +1,4 @@
-# quiz-game-app 
+# Quiz-game-app 
 
 It's a quiz-app-of-the-year
 
